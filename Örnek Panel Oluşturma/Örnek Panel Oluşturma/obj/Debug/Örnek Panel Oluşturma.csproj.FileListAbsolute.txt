@@ -1,0 +1,11 @@
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\Örnek Panel Oluşturma\Örnek Panel Oluşturma\bin\Debug\Örnek Panel Oluşturma.exe.config
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\Örnek Panel Oluşturma\Örnek Panel Oluşturma\bin\Debug\Örnek Panel Oluşturma.exe
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\Örnek Panel Oluşturma\Örnek Panel Oluşturma\bin\Debug\Örnek Panel Oluşturma.pdb
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\Örnek Panel Oluşturma\Örnek Panel Oluşturma\obj\Debug\Örnek Panel Oluşturma.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\Örnek Panel Oluşturma\Örnek Panel Oluşturma\obj\Debug\Örnek Panel Oluşturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\Örnek Panel Oluşturma\Örnek Panel Oluşturma\obj\Debug\Örnek_Panel_Oluşturma.Form1.resources
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\Örnek Panel Oluşturma\Örnek Panel Oluşturma\obj\Debug\Örnek_Panel_Oluşturma.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\Örnek Panel Oluşturma\Örnek Panel Oluşturma\obj\Debug\Örnek Panel Oluşturma.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\Örnek Panel Oluşturma\Örnek Panel Oluşturma\obj\Debug\Örnek Panel Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\Örnek Panel Oluşturma\Örnek Panel Oluşturma\obj\Debug\Örnek Panel Oluşturma.exe
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\Örnek Panel Oluşturma\Örnek Panel Oluşturma\obj\Debug\Örnek Panel Oluşturma.pdb
